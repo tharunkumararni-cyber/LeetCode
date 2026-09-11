@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0066-plus-one) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
