@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
