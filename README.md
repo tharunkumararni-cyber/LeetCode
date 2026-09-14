@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0066-plus-one) |
 ## Database
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0607-sales-person](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0607-sales-person) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
