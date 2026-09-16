@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0511-game-play-analysis-i) |
+| [0584-find-customer-referee](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0607-sales-person) |
 ## Binary Search
 |  |
