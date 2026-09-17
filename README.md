@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Database
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
