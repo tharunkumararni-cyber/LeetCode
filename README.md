@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0118-pascals-triangle) |
 ## Database
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0118-pascals-triangle) |
 ## Manacher
 |  |
 | ------- |
