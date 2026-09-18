@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0119-pascals-triangle-ii) |
