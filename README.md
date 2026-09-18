@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0168-excel-sheet-column-title) |
 ## Array
