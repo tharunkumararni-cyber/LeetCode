@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0168-excel-sheet-column-title) |
 ## Array
@@ -164,8 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0060-permutation-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
