@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0608-tree-node) |
 | [0619-biggest-single-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0620-not-boring-movies) |
 ## Binary Search
 |  |
 | ------- |
