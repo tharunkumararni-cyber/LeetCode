@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
