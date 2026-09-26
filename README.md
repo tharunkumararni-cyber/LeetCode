@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0072-edit-distance) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0044-wildcard-matching) |
 ## Newton's Method
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0060-permutation-sequence) |
 ## Bit Manipulation
 |  |
