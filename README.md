@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0067-add-binary) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0067-add-binary) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
