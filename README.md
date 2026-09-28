@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1158-market-analysis-i](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1158-market-analysis-i) |
+| [1251-average-selling-price](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1251-average-selling-price) |
 ## Binary Search
 |  |
 | ------- |
