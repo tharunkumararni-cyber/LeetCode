@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Array
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Design
 |  |
 | ------- |
