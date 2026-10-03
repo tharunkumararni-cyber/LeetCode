@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Counting
 |  |
 | ------- |
