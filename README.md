@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0130-surrounded-regions) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
