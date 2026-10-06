@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
