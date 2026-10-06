@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0202-happy-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
