@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [1907-count-salary-categories](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/1907-count-salary-categories) |
