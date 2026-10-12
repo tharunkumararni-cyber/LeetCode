@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0292-nim-game) |
 ## String
 |  |
 | ------- |
@@ -373,4 +374,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tharunkumararni-cyber/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
